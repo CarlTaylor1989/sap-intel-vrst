@@ -1,0 +1,361 @@
+{
+    "data": [
+        {
+            "name": "Portugal",
+            "x-cord": "10",
+            "y-cord": "332",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Bom dia Portugal! We’re meeting some great people here in Lisbon. Portugal Telecom, EDP, CGD and ZON so far.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’ve taken our 16.5m truck about as far as we can in this direction. Lisbon is the westernmost capital city in Europe."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Wow! More than 2,000km in three days. From ice caps in Switzerland to ice-creams in Lisbon – this is one cool truck."
+                }
+            ]
+        },
+        {
+            "name": "Spain",
+            "x-cord": "60",
+            "y-cord": "345",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "The Spanish traditionally enjoy a siesta in the middle of the day, but there’s no rest for us. On and up to Madrid, 635m above sea level",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "It’s great to be in Spain, where we’ll be seeing SAP customers Amadeus, Telefonica, Enel, Revlon, Cirsa and Gas Natural."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "I left the truck for a quick fly around FC Barcelona’s Camp Nou stadium. It’s the largest in Europe, with a capacity of 99,354."
+                }
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "x-cord": "135",
+            "y-cord": "205",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Every day around 24 million journeys are made on the London transport system. That must generate an awful lot of data.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "At the Farnborough Air Show, where we’re explaining how SAP HANA can enable predictive maintenance that keeps planes flying."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "We’re visiting Yorkshire Water, which owns 28,000 hectares of Yorkshire, including 17 nature reserves. My kind of company."
+                }
+            ]
+        },
+        {
+            "name": "France",
+            "x-cord": "140",
+            "y-cord": "260",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "The truck weighs 33 tonnes, but it handled well as we drove through the Pyrenees from Barcelona to Pau. Beautiful views too.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Visiting Lille in northern France, which has around 200 mail-order businesses and 10 business schools. Sounds perfect for a Big Data session."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Luckily the hunting season in France doesn’t start until September. I think it’s safe for owls until then!"
+                }
+            ]
+        },
+        {
+            "name": "Belgium",
+            "x-cord": "165",
+            "y-cord": "220",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re rolling along the roads of Belgium, home to the EU, NATO and about 11 million people.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Belgium has no fewer than three official languages: Dutch, French and German – wonder if Big Data is the same in all three?"
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "We’ve just driven past a lovely bird sanctuary near Knokke in Belgium. I think I spotted some old friends flying around"
+                }
+            ]
+        },
+        {
+            "name": "Netherlands",
+            "x-cord": "190",
+            "y-cord": "200",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re off to SAP’s Netherlands HQ in Den Bosch for Big Data Inspiration Day. Speakers from SAP, Cap Gemini, IDC and Alliander.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Vodafone Netherlands were telling us how they use SAP Big Data technology to keep customers happy and reduce churn."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "I’ve been trying out the local traditions here in the Netherlands, but it’s hard to fly when you’re wearing clogs."
+                }
+            ]
+        },
+        {
+            "name": "Switzerland",
+            "x-cord": "195",
+            "y-cord": "278",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re visiting the International Telecommunications Union in Geneva, birthplace of the World Wide Web.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "From the streets of Geneva to the country lanes of Mex, where we visit Bobst, an SAP customer that supplies packaging equipment to the world"
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "I think the best thing about Switzerland is their amazing chocolate. They’ve been making it here since the 17th century."
+                }
+            ]
+        },
+        {
+            "name": "Italy",
+            "x-cord": "230",
+            "y-cord": "350",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re off to Milan, just in time for Fashion Week. Clothing retailers are already using Big Data to predict new trends.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’ve met lovely people at Saipem today. They’re big players in the energy industry, marrying technology with sustainability."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Like lots of other birds, I’m heading south. I bet they’re not going to Italy though. Where are my trendy sunglasses?"
+                }
+            ]
+        },
+        {
+            "name": "Denmark",
+            "x-cord": "228",
+            "y-cord": "158",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Our first stop in Denmark is Ecco, famous for its shoes. It manages every stage of production, from tannery to retail.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "The truck feels like new after our holiday. Good job, as we’ve got thousands of kilometers to travel in the next few weeks."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "We’re back on the road after two weeks for rest and repairs. Welcome to Denmark – now where’s that pastry?"
+                }
+            ]
+        },
+        {
+            "name": "Norway",
+            "x-cord": "235",
+            "y-cord": "118",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re in the northernmost country of our tour. Norway also has the world’s largest sovereign wealth fund, at over $830 billion.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Norway has 393km of motorways, but only one heliport. Good job we’re travelling by truck, not helicopter."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "13 types of owl have been recorded in Norway, including the Eurasian Pygmy Owl. It’s nice to be among family again."
+                }
+            ]
+        },
+        {
+            "name": "Sweden",
+            "x-cord": "278",
+            "y-cord": "130",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Three big Swedish companies in one day: Mölnlycke, Volvo and SKF. It’s amazing what Big Data can do in almost every industry.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Sweden has always been famous for technical innovations, so it’s the perfect place to be talking about Big Data and SAP HANA."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Stockholm looks amazing from the air. It’s built on 14 distinct islands. 30% of the city is waterways and another 30% green spaces."
+                }
+            ]
+        },
+        {
+            "name": "Germany",
+            "x-cord": "243",
+            "y-cord": "210",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Our grand tour starts at SAP headquarters in Walldorf, Germany, which cover a total of 19.91km<sup>2</sup>.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We stop in Bonn to visit DPDHL, which has around 480,000 employees in 220 countries."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "So far on the tour I’ve eaten salad in Walldorf and sausages in Frankfurt. I think a theme is developing. Are we going to Hamburg?"
+                }
+            ]
+        },
+        {
+            "name": "Austria",
+            "x-cord": "245",
+            "y-cord": "280",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Next stop, Vienna, which will host this year’s SAP MaxAttention summit from 26-28 October.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "We’re driving on the excellent autobahns of Austria, which have a speed limit, unlike the German versions."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Austria will host the Eurovision Song Contest next year. Do you think I’ve got a chance of winning? Too-wit too-woo!"
+                }
+            ]
+        },
+        {
+            "name": "Czech Republic",
+            "x-cord": "258",
+            "y-cord": "245",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "The Czech people are rightly proud of their scientific heritage, including Gregor Mendel, the ‘father of genetics’.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Prague is the sixth most visited city in Europe. Shame we missed the beer festival, which is held in May and lasts 17 days."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "If you meet my cousin the Eurasian Eagle-Owl here in the Czech Republic, don’t call him by his Latin name – Bubo bubo. He hates it."
+                }
+            ]
+        },
+        {
+            "name": "Slovakia",
+            "x-cord": "295",
+            "y-cord": "258",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "It’s exciting to be here in Slovakia, which has one of the fastest growth rates in Europe. It joined the EU in 2004.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Car manufacturing and electrical engineering are major industries in Slovakia. And they’re both big users of Big Data."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Andy Warhol’s parents were from Slovakia and ice hockey is the most popular sport here. I don’t think he played it though."
+                }
+            ]
+        },
+        {
+            "name": "Poland",
+            "x-cord": "305",
+            "y-cord": "220",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Many multinational companies have set up R&D centres here in Poland. It’s the biggest R&D hub in central and eastern Europe.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Telecoms company TPSA Poland used Big Data analytics to improve the accuracy of its churn model by 50%."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "Poland has 14 sites inscribed on the UNESCO World Heritage, including historic cities and royal salt mines."
+                }
+            ]
+        },
+        {
+            "name": "Finland",
+            "x-cord": "320",
+            "y-cord": "110",
+            "carousel": 1,
+            "content": [
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Next stops are Finland’s two largest cities: Helsinki and Espoo. Technology centres with thriving universities and lots of start-ups.",
+                    "active": 1
+                },
+                {
+                    "username": "BigDataTruck",
+                    "desc": "Finland is the last Nordic country on our schedule before we head south. We’ll miss all these lovely people."
+                },
+                {
+                    "username": "HannahTheOwl",
+                    "desc": "I love the meatballs they make here in Finland. They’re called lihapullat and you eat them with gravy and lingonberry jam. Delicious."
+                }
+            ]
+        }
+    ]
+}

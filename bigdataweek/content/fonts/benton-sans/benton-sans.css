@@ -1,0 +1,23 @@
+﻿@font-face {
+    font-family: BentonSansLight;
+    src: url(BentonSans-Light.eot);
+    src: url(BentonSans-Light.eot?#iefix) format('embedded-opentype'), url(BentonSans-Light.svg) format('svg'), url(BentonSans-Light.woff) format('woff'), url(BentonSans-Light.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: BentonSansRegular;
+    src: url(BentonSans-Regular.eot);
+    src: url(BentonSans-Regular.eot?#iefix) format('embedded-opentype'), url(BentonSans-Regular.svg) format('svg'), url(BentonSans-Regular.woff) format('woff'), url(BentonSans-Regular.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BentonSansBold;
+    src: url(BentonSans-Bold.eot);
+    src: url(BentonSans-Bold.eot?#iefix) format('embedded-opentype'), url(BentonSans-Bold.svg) format('svg'), url(BentonSans-Bold.woff) format('woff'), url(BentonSans-Bold.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
